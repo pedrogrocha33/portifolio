@@ -1,2 +1,1 @@
-# mysite
-Django personal blog
+# portifolio
